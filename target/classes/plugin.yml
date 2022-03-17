@@ -1,0 +1,11 @@
+name: SouledSMP_By_Barrulik
+version: '1.0'
+main: me.barrulik.souledsmp.SouledSMP
+api-version: 1.18
+prefix: SOULEDSMP
+authors: [ Barrulik ]
+description: Souled SMP's plugin.
+commands:
+  rasputin:
+    description: Why not trying it?
+    usage: /<command>
