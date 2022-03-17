@@ -1,1 +1,1 @@
-# SouledSMP-Plugin
+# SouledSMP's Plugin
